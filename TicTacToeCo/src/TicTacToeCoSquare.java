@@ -1,5 +1,4 @@
 // TicTacToeCoSquare.java
-// Audrey St. John
 
 // awt
 import java.awt.GridLayout;
